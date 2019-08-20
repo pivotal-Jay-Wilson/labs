@@ -1,0 +1,20 @@
+{
+  "name": "la-extra-labs",
+  "version": "1.0.0",
+  "description": "Extra labs to practice cf commands",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfenv": "^1.2.2",
+    "express": "^4.17.1",
+    "random-words": "^1.1.0"
+  },
+  "engines": {
+    "node": "12.3.1"
+  }
+}
